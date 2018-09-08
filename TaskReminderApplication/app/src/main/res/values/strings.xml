@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task Reminder Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_reminders"></string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="date">Reminder Date</string>
+    <string name="time">Time</string>
+    <string name="confirm">Confirm</string>
+</resources>
